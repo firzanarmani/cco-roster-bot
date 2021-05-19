@@ -1,4 +1,11 @@
+APScheduler==3.6.3
+certifi==2020.12.5
 lml==0.1.0
 pyexcel==0.6.6
 pyexcel-io==0.6.4
+python-telegram-bot==13.5
+pytz==2021.1
+six==1.16.0
 texttable==1.6.3
+tornado==6.1
+tzlocal==2.1
